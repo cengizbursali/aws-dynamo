@@ -1,0 +1,11 @@
+amazon:
+  aws:
+    region: eu-west-2
+    accessKey: AKIAZF66KS2COBCAVGSM1
+    secretKey: CG09uGRep+lCm83ZG6JvhQIoxzGkpFmzu9LEdu3q2
+server:
+  port: 8082
+
+spring:
+  application:
+    name: AWS Dynamo DB
