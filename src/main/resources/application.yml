@@ -1,8 +1,8 @@
 amazon:
   aws:
-    region: eu-west-2
-    accessKey: AKIAZF66KS2COBCAVGSM1
-    secretKey: CG09uGRep+lCm83ZG6JvhQIoxzGkpFmzu9LEdu3q2
+    region: us-east-2
+    accessKey: AKIAZF66KS2CG73SIX4R
+    secretKey: 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
 server:
   port: 8082
 
